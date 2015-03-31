@@ -1,0 +1,16 @@
+.error_report {
+    color: red;
+}
+
+#feature-list {
+    background-color: #fffff0;
+}
+
+.page-tail{
+    padding-top: 9px;
+    margin: 20px 0 30px;
+    border-top: 1px solid #eeeeee;
+    font-size:16px;
+    text-align:center;
+    /*float:right*/
+}
